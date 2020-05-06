@@ -1,2 +1,4 @@
 # S.A.O
-##My first Android Application
+这是第一个练手的Android项目。
+主要实现了登录然后看图片的功能。
+
